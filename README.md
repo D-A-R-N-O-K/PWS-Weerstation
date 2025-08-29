@@ -9,5 +9,6 @@ ps. logboek zit er ook al in
 
 
 Hoi pookie,
-Ik zal ff textdocument in de documenten map plaatsten maar heb hem ook al naar je gestuurd via 365.
+Ik wilde het tekstdocument in /docs doen alleen is dit niet handig met saven denk ik.
+Of wel ik weet niet hoe github werkt maar komt wel.
 ik heb er ook zin in <3
