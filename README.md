@@ -4,4 +4,5 @@ in de docs folder find je al een lijst met functies die de weerstation zou hebbe
 ik denk dat het handig is als we gwn de verslag en andere textdocumenten ook in deze folder gaan maken.  
 ik ga vanavond nog een lijst maken met alles wat we nog moeten kopen.  
 vindt github best ingewikkeld, maar ik snap het nu wel, mss moet je gwn nog een yt tutorial kijken (heb ik ook gedaan)  
-ik heb er wel echt zin in <3
+ik heb er wel echt zin in <3  
+ps. logboek zit er ook al in
