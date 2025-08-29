@@ -1,4 +1,7 @@
-# Functies/Data:
+# Concept
+Hoe moeielijk is het om een eigen weerstation te maken?  
+Hoe betrowbaar kunnen wij voorspellingen met deze weerstation maken?
+## Functies/Data:
 - Neerslag
 - Onweer/Bliksem (waarschuwing)
 - Temperatuur
