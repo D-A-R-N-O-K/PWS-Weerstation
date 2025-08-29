@@ -1,5 +1,4 @@
 # PWS-Weerstation
-Weerstation (Profielwerkstuk)  
 Hoi Pookie  
 in de docs folder find je al een lijst met functies die de weerstation zou hebben.  
 ik denk dat het handig is als we gwn de verslag en andere textdocumenten ook in deze folder gaan maken.  
