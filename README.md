@@ -6,3 +6,8 @@ ik ga vanavond nog een lijst maken met alles wat we nog moeten kopen.
 vindt github best ingewikkeld, maar ik snap het nu wel, mss moet je gwn nog een yt tutorial kijken (heb ik ook gedaan)  
 ik heb er wel echt zin in <3  
 ps. logboek zit er ook al in
+
+
+Hoi pookie,
+Ik zal ff textdocument in de documenten map plaatsten maar heb hem ook al naar je gestuurd via 365.
+ik heb er ook zin in <3
