@@ -34,7 +34,6 @@ Om nu in Python te kunnen progameren moeten wij de ESP32 met micropython flashen
    - data wordt geconverteerd naar eenheden
    - gemiddelde\mediaan wordt berekend
    - corrupte data wordt gefilterd
-   - analyseert data (voorspellingen)
 3. Communicatie-block
    - data wordt doorgestuurd aan bijv.:
      - server
@@ -43,7 +42,16 @@ Om nu in Python te kunnen progameren moeten wij de ESP32 met micropython flashen
      - geheugen (USB etc.)
      - terminal
      - website (van de ESP32 gehostet)
+     - raspberry pi server (voor analyse)
 4. Client side (Tweede ESP32)
    - ontvangt data van weerstation
-   - analyseert data (voorspellingen)
    - geeft data weer
+
+## Analyse
+Met de gemeten data gaan we proberen om weervoorspellingen de maken.  
+We gaan dit proberen met een Raspberry Pi, die we voeden met de verzamelde data, zodat hij door middel van ML (machine learning) patronen in de data begint te herkennen en zo voorspellingen kan genereren. 
+
+Voorbeeld:  
+de luchtdruk daalt, het weer verslechtert (meer bewolking, regen enz.). De volgende keer dat de Raspberry Pi in de data herkent dat de luchtdruk daalt, voorspelt hij dat het weer slechter wordt. 
+
+Met behulp van ML hopen we dat deze voorspellingen steeds nauwkeuriger worden. Na verloop van tijd zullen we deze voorspellingen vergelijken met de voorspellingen van gerenommeerde websites en de verschillen analyseren.
