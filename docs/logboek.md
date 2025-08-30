@@ -3,4 +3,4 @@
 |:-:|-:|:-|:-:|
 |13.08.2025|2|Recherche neerslag sensor (tipping bucket gauge/Pythagorean cup)|K|
 |29.08.2025|3|GitHub repo, [concept](docs/concept.md) en logboek gamaakt|K|
-|30.08.2025|2|Recherche (micropython), [dit](docs/concept.md/#Code) en [dit](docs/concept.md/#Analyse)|K|
+|30.08.2025|2|Recherche (micropython), [dit](docs/concept.md/#Code) en [dit](concept.md/#Analyse)|K|
