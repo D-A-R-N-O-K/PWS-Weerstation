@@ -8,3 +8,5 @@
 |31.08.2025|2|Recherche ML (River)|K|
 |02.09.2025|1|Begin [onderzoeksconcept](concept.md/#Onderzoek)|K|
 |02.09.2025|2|Ondersoeksplan|K&B|
+|02.09.2025|1|[Boodschappenlijst](https://github.com/D-A-R-N-O-K/PWS-Weerstation/issues/2)|K|
+
