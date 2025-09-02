@@ -1,5 +1,5 @@
 # PWS-Weerstation
-Hoi Pookie :shipit:
+Hoi Pookie :shipit:  
 in de docs folder find je al een lijst met functies die de weerstation zou hebben.  
 ik denk dat het handig is als we gwn de verslag en andere textdocumenten ook in deze folder gaan maken.  
 ik ga vanavond nog een lijst maken met alles wat we nog moeten kopen.  
