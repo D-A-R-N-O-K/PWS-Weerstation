@@ -4,5 +4,6 @@
 |13.08.2025|2|Recherche neerslag sensor (tipping bucket gauge/Pythagorean cup)|K|
 |29.08.2025|3|GitHub repo, [concept](docs/concept.md) en logboek gamaakt|K|
 |30.08.2025|2|Recherche (micropython), concept: [Code](concept.md/#Code) en [Analyse](concept.md/#Analyse)|K|
+|30.08.2025|2|Leren over python |B|
 |31.08.2025|2|Recherche ML (River)|K|
 |02.09.2025|1|Begin [onderzoeksconcept](concept.md/#Onderzoek)|K|
