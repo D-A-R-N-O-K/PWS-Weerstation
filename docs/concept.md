@@ -55,3 +55,11 @@ Voorbeeld:
 de luchtdruk daalt, het weer verslechtert (meer bewolking, regen enz.). De volgende keer dat de Raspberry Pi in de data herkent dat de luchtdruk daalt, voorspelt hij dat het weer slechter wordt. 
 
 Met behulp van ML hopen we dat deze voorspellingen steeds nauwkeuriger worden. Na verloop van tijd zullen we deze voorspellingen vergelijken met de voorspellingen van gerenommeerde websites en de verschillen analyseren.
+
+
+Naar meer onderzoek hebben we besloten om de de open-source python library "River" te gebruiken voor het ML. We hebben voor river gekozen omdat het heel makkelijk is om ins project te gebruiken omdat we sowieso vooral python willen gebruiken.
+
+We moeten wel nog overleggen hoe we makkelijk kunnen documenteren of de voorspellingen wel of niet kloppen. Deze data gaan we dan proberen met een graph te visualieseren.
+
+## Onderzoek
+Het doel van deze PWS is om de volgende vragen te kunnen beantwoorden
