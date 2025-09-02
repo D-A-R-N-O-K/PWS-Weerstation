@@ -59,7 +59,11 @@ Met behulp van ML hopen we dat deze voorspellingen steeds nauwkeuriger worden. N
 
 Naar meer onderzoek hebben we besloten om de de open-source python library "River" te gebruiken voor het ML. We hebben voor river gekozen omdat het heel makkelijk is om ins project te gebruiken omdat we sowieso vooral python willen gebruiken.
 
-We moeten wel nog overleggen hoe we makkelijk kunnen documenteren of de voorspellingen wel of niet kloppen. Deze data gaan we dan proberen met een graph te visualieseren.
+We moeten wel nog overleggen hoe we makkelijk kunnen documenteren of de voorspellingen wel of niet kloppen. Deze data gaan we dan proberen met een [graph te visualieseren](grafana.org) en dan met data van bekende "Weerapps" te verglijken.
 
 ## Onderzoek
-Het doel van deze PWS is om de volgende vragen te kunnen beantwoorden
+Het doel van deze PWS is om de volgende vragen te kunnen beantwoorden:
+
+1. **Hoe moeilijk is het om een eigen weerstation te maken?**
+2. Hoe nauwkeurig kunnen we zelfs voorspellingen maken?
+3. 
