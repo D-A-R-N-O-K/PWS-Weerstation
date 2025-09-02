@@ -66,4 +66,5 @@ Het doel van deze PWS is om de volgende vragen te kunnen beantwoorden:
 
 1. **Hoe moeilijk is het om een eigen weerstation te maken?**
 2. Hoe nauwkeurig kunnen we zelfs voorspellingen maken?
-3. 
+3. Hoe vaak (%) kloppen oze voorspellingen in vergelijking met andere websites/apps?
+4. ...
