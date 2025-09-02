@@ -15,3 +15,5 @@ ik heb er ook zin in <3
 
 <!--Hier zijn wij (heel haard aan het werken):--> 
 ![Wij](https://preview.redd.it/stop-resisting-v0-gwulutg376te1.png?width=640&crop=smart&auto=webp&s=0ff3f3a372b76859a596438dfe92658fe315b103)
+
+prachtig
