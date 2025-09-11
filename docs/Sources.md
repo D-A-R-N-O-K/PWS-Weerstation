@@ -3,5 +3,5 @@
 ESP32 connect to DHT22 using c++  
 https://esp32io.com/tutorials/esp32-dht22
 
-DIY Wheater station with esp32
+DIY Wheater station with esp32  
 https://www.instructables.com/DIY-Weather-Station-With-ESP32/
