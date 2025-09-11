@@ -47,6 +47,11 @@ Om nu in Python te kunnen progameren moeten wij de ESP32 met micropython flashen
    - ontvangt data van weerstation
    - geeft data weer
 
+### Libraries (c++ in IDE)  
+- Arduino esp32 Boards by Espressif 
+- DHT sensor library by Adafruit  
+- 
+
 ## Analyse
 Met de gemeten data gaan we proberen om weervoorspellingen de maken.  
 We gaan dit proberen met een Raspberry Pi, die we voeden met de verzamelde data, zodat hij door middel van ML (machine learning) patronen in de data begint te herkennen en zo voorspellingen kan genereren. 
