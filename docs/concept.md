@@ -66,6 +66,9 @@ Naar meer onderzoek hebben we besloten om de de open-source python library "Rive
 
 We moeten wel nog overleggen hoe we makkelijk kunnen documenteren of de voorspellingen wel of niet kloppen. Deze data gaan we dan proberen met een [graph te visualieseren](grafana.org) en dan met data van bekende "Weerapps" te verglijken.
 
+## Literatuuronderzoek
+Onderzoek naar meetapparatuur/binaire waarden.
+
 ## Onderzoek
 Het doel van deze PWS is om de volgende vragen te kunnen beantwoorden:
 
@@ -73,6 +76,8 @@ Het doel van deze PWS is om de volgende vragen te kunnen beantwoorden:
 2. Hoe nauwkeurig kunnen we zelfs voorspellingen maken?
 3. Hoe vaak (%) kloppen oze voorspellingen in vergelijking met andere websites/apps?
 4. ...
+
+## ontwerpeisen
 
 ## Plan van aanpak
 
