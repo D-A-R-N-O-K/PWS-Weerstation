@@ -11,3 +11,4 @@
 |02.09.2025|1|[Boodschappenlijst](https://github.com/D-A-R-N-O-K/PWS-Weerstation/issues/2)|K|
 |07.09.2025|2|Brainstorm|K&B|
 |11.09.2025|1|Uitwerking schematische tekening|B|
+|02.10.2025|3|PWS-middag, werken aan anemometer en windvaan|K&B|
