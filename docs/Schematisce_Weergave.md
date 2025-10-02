@@ -1,5 +1,5 @@
 ## Schematische weergave van de microcontroller en componenten  
-#Componenten  
+# Componenten  
 * ESP32-U
 * Antenna
 * DHT22/SHT31
