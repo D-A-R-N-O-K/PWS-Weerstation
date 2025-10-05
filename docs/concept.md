@@ -62,7 +62,7 @@ de luchtdruk daalt, het weer verslechtert (meer bewolking, regen enz.). De volge
 Met behulp van ML hopen we dat deze voorspellingen steeds nauwkeuriger worden. Na verloop van tijd zullen we deze voorspellingen vergelijken met de voorspellingen van gerenommeerde websites en de verschillen analyseren.
 
 
-Naar meer onderzoek hebben we besloten om de de open-source python library "River" te gebruiken voor het ML. We hebben voor river gekozen omdat het heel makkelijk is om ins project te gebruiken omdat we sowieso vooral python willen gebruiken.
+Naar meer onderzoek hebben we besloten om de de open-source python library "River" te gebruiken voor het ML. We hebben voor River gekozen omdat het heel makkelijk is om ins project te gebruiken omdat we sowieso vooral python willen gebruiken.
 
 We moeten wel nog overleggen hoe we makkelijk kunnen documenteren of de voorspellingen wel of niet kloppen. Deze data gaan we dan proberen met een [graph te visualieseren](grafana.org) en dan met data van bekende "Weerapps" te verglijken.
 
@@ -78,6 +78,25 @@ Het doel van deze PWS is om de volgende vragen te kunnen beantwoorden:
 4. ...
 
 ## ontwerpeisen
+Voordat we het gehele ontwerp kunnen gaan maken moeten eerst de ontwerpeisen duidelijk zijn. Dit voorkomt problemen in latere delen van ons project zoals overcomplicatie of juist een te gebrekkig ontwerp.  
+Door te bepalen wat de functies moeten zijn, wordt dit geprobeert te vermijden.  
+  
+### Ontwerp risico's en maatregelen  
+- Zelfwarming van sensoren (d.m.v. apparatuur of zonlicht)  
+Oplossing: Afstand tussen warme elementen, genoeg ventilatie en koellichamen (heatsink)  
+- Elektrische ruis, kan foutiefe metingen geven (externe bronnen of door de batterij)  
+Oplossing: Afscherming van kabels (bij langere afstanden) en voor de voeding een decoupler capacitor (verder onderzoeken)  
+- Condens, kan zorgen voor verkeerder meetingen (luchtvochtigheid  
+Oplossing: Ademende waterdichte filters  
+- Vibraties en lagerproblemen, kunnen windrichting/snelheid beinvloeden  
+Oplossing: een stabiele ondergrond, goede lagers die ook gecalibreerd zijn (met dank aan Edgar Hek)  
+- Timing van de componenten/ onderdelen voor gelijke tijden van metingen.  
+Oplossing: Gebruik RTC of NTP.    
+  
+Minder belangrijke/rolspelende factoren:  
+A/D converter moet een goede resolutie hebben. Het meetsignaal (analoog) moet in met de juiste nauwkeurigheid omgezet worden naar digitale waarden (bits).
+
+
 
 ## Plan van aanpak
 
