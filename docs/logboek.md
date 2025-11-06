@@ -12,4 +12,5 @@
 |07.09.2025|2|Brainstorm|K&B|
 |11.09.2025|1|Uitwerking schematische tekening|B|
 |02.10.2025|3|PWS-middag, werken aan anemometer en windvaan|K&B|
-|05.10-2025|1|Onderzoek naar ontwerpeisen en risico's|B|
+|05.10.2025|1|Onderzoek naar ontwerpeisen en risico's|B|
+|06.11.2025|2|Plan van aanpak verbeterd|B|
