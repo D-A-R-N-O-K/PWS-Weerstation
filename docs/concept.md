@@ -133,8 +133,11 @@ A/D converter moet een goede resolutie hebben. Het meetsignaal (analoog) moet in
 
 
 ## Plan van aanpak
+Om te beginnen moeten we de componenten in handen hebben om het fysieke apparaat te kunnen bouwen. Dit doen we met de producten besteld bij aliexpress. Deze site bied vele verkopers van goedkoop en meestal nauwkeurig genoege componenten. De componenten die we gebruikt hebben zijn te vinden in het kopje **componenten**.
+
+
 Het plan van aanpak gaat vooral bestaan uit **'trial and error'**. Hiervoor gaan we wel onderzoek doen naar verschillende mogenlijkheden van het maakproces zoals: Zijn er al eerder gemaakte modellen die we kunnen gebruiken, maar ook eerder gemaakte fouten die we kunnen proberen te vermijden. Dit onderzoek bestaat meer uit een fysiek product produceren en kan daarom nog een hoop aanpassingen doorstaat voordat we tevreden zijn met het resultaat. 
 
 Een goed voorbeeld van de trial and error die we verwachten tegen te komen is het calibreren van de meetgegevens die we uit de apparatuur verkrijgen. Deze is niet zo geavanceerd als dat van de landelijke weermaatschappij die we proberen na te bootsen. Hiervoor moeten verschillende formules/codes worden toegepast om de nauwkeurigheid richting hetzelfde niveau als die van de KNMI. Hoe dichtbij we daar komen is nog maar de vraag. 
 
-Om te beginnen moeten we de componenten in handen hebben om het fysieke apparaat te kunnen bouwen. Dit doen we met de producten besteld bij aliexpress. Deze site bied vele verkopers van goedkoop en meestal nauwkeurig genoege componenten. De componenten die we gebruikt hebben zijn te vinden in het kopje **componenten**.
+Na op internet gezocht te hebben kwamen we een artiekel tegen die uitlegt wat wij willen doen. Hier legt Aggiustatutto (z.d.) uit hoe hij een thuis weerstation heeft gemaakt. In het kort meet hij hier 6 weerverschijnsellen en gebruikt hij de luchtdruk, een van die 6, om een weervoorspelling te maken. Dit word dan weergeven op een app die te zien is met een telefoon op de wifi.
