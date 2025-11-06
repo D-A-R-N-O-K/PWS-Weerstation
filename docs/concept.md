@@ -103,4 +103,4 @@ Het plan van aanpak gaat vooral bestaan uit 'trial and error'. Hiervoor gaan we 
 
 Een goed voorbeeld van de trial and error die we verwachten tegen te komen is het calibreren van de meetgegevens die we uit de apparatuur verkrijgen. Deze is niet zo geavanceerd als dat van de landelijke weermaatschappij die we proberen na te bootsen. Hiervoor moeten verschillende formules/codes worden toegepast om de nauwkeurigheid richting hetzelfde niveau als die van de KNMI. Hoe dichtbij we daar komen is nog maar de vraag. 
 
-Om te beginnen moeten we de componenten in handen hebben die we nodig hebben om de fysieke apparaat te kunnen bouwen. Dit doen we met de producten besteld bij aliexpress. Deze site bied vele verkopers van goedkoop en meestal nauwkeurig genoege componenten. De componenten die we gebruikt hebben zijn te vinden en 
+Om te beginnen moeten we de componenten in handen hebben om het fysieke apparaat te kunnen bouwen. Dit doen we met de producten besteld bij aliexpress. Deze site bied vele verkopers van goedkoop en meestal nauwkeurig genoege componenten. De componenten die we gebruikt hebben zijn te vinden in het kopje componenten.
