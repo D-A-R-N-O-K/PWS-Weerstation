@@ -11,4 +11,7 @@ https://docs.espressif.com/projects/esp-hardware-design-guidelines/en/latest/esp
 
 
 Stand van zaken onderzoek naar het meten van PM2,5 fijnstof, RIVM open repository, Laboratorium voor Millieumetingen.  
-https://rivm.openrepository.com/entities/publication/fa22bd14-c0af-4abc-8c2c-b06d274d58bb 
+https://rivm.openrepository.com/entities/publication/fa22bd14-c0af-4abc-8c2c-b06d274d58bb  
+
+Windrichting meter onderzoek gedaan en gedocumenteert in github.
+https://github.com/curiouselectric/WindSensor/tree/main/Wind%20Sensor%20Firmware/ATMega328_Wind_Sensor_Ave_CRC 
