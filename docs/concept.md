@@ -141,3 +141,10 @@ Het plan van aanpak gaat vooral bestaan uit **'trial and error'**. Hiervoor gaan
 Een goed voorbeeld van de trial and error die we verwachten tegen te komen is het calibreren van de meetgegevens die we uit de apparatuur verkrijgen. Deze is niet zo geavanceerd als dat van de landelijke weermaatschappij die we proberen na te bootsen. Hiervoor moeten verschillende formules/codes worden toegepast om de nauwkeurigheid richting hetzelfde niveau als die van de KNMI. Hoe dichtbij we daar komen is nog maar de vraag. 
 
 Na op internet gezocht te hebben kwamen we een artiekel tegen die uitlegt wat wij willen doen. Hier legt Aggiustatutto (z.d.) uit hoe hij een thuis weerstation heeft gemaakt. In het kort meet hij hier 6 weerverschijnsellen en gebruikt hij de luchtdruk, een van die 6, om een weervoorspelling te maken. Dit word dan weergeven op een app die te zien is met een telefoon op de wifi.
+
+
+## Werkverdeling  
+|Konrad|Berend|Samen|
+|-|-|-|
+|Server|De housing van het geheel maken|Sensoren verbouwen en calibreren|
+|ML|...||
