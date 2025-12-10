@@ -14,6 +14,8 @@
 |02.10.2025|3|PWS-middag, werken aan anemometer en windvaan|K&B|
 |05.10.2025|1|Onderzoek naar ontwerpeisen en risico's|B|
 |06.11.2025|2|Plan van aanpak verbeterd|B|
-|07.11.2025|1|Nieuwe source gevonden en lezen over fijnstof (born van de KNMI)|B|
+|07.11.2025|1|Nieuwe source gevonden en lezen over fijnstof (bron van de KNMI)|B|
 |02.12.2025|1|uitzoeken bedrading en runnen van de BMP280 |K&B|
 |09.12.2025|2|schrijven en onderzoek over wetenschappen achter weersvoorspellingen|B|
+|10.12.2025|2|Machine learning in combinatie met weervoorspellen bron van MDPI door China Huaneng Clean Energy Research Institute, Beijing, China
+|B|
