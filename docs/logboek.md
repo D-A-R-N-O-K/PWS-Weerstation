@@ -17,5 +17,4 @@
 |07.11.2025|1|Nieuwe source gevonden en lezen over fijnstof (bron van de KNMI)|B|
 |02.12.2025|1|uitzoeken bedrading en runnen van de BMP280 |K&B|
 |09.12.2025|2|schrijven en onderzoek over wetenschappen achter weersvoorspellingen|B|
-|10.12.2025|2|Machine learning in combinatie met weervoorspellen bron van MDPI door China Huaneng Clean Energy Research Institute, Beijing, China
-|B|
+|10.12.2025|2|Machine learning in combinatie met weervoorspellen bron van MDPI door China Huaneng Clean Energy Research Institute, Beijing, China|B|
