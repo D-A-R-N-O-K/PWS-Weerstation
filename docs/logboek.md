@@ -18,3 +18,4 @@
 |02.12.2025|1|uitzoeken bedrading en runnen van de BMP280 |K&B|
 |09.12.2025|2|schrijven en onderzoek over wetenschappen achter weersvoorspellingen|B|
 |10.12.2025|3|Machine learning in combinatie met weervoorspellen bron van MDPI door China Huaneng Clean Energy Research Institute, Beijing, China|B|
+|11.12.2025|3|Schrijven 0-versie en meer onderzoek naar machine learning algemeen+onze manier, Anaconda + Jupyter + River (py)|B|
