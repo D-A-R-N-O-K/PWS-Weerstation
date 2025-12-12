@@ -1,6 +1,6 @@
 # Logboek
-|Datum|Tijd in uuren|Wat|Wie|
-|:-:|-:|:-|:-:|
+|Datum|Tijd in uuren|Wat|Wie|Totaal aantaluren (K/B/KB)|
+|:-:|-:|:-|:-:|:-|
 |13.08.2025|2|Recherche neerslag sensor (tipping bucket gauge/Pythagorean cup)|K|
 |29.08.2025|3|GitHub repo, [concept](docs/concept.md) en logboek gamaakt|K|
 |30.08.2025|2|Recherche (micropython), concept: [Code](concept.md/#Code) en [Analyse](concept.md/#Analyse)|K|
@@ -22,3 +22,4 @@
 |11.12.2025|5|Weerstation en -code afmaken|K|
 |12.12.2025|1|Onderzoek naar we invloed van de wind op het weer + schrijven kopje meteorlogie>wind, bron van Kees Floor (2004, januari 1) NEMO|B|
 |12.12.2025|2|schrijven over Weerstation en -code|K|
+|||||27/24/51|
