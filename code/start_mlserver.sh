@@ -6,7 +6,7 @@ import time
 
 PROJECT_DIR = os.path.expanduser("~/esp_project")
 VENV_ACTIVATE = os.path.join(PROJECT_DIR, "venv", "bin", "activate")
-URL = "http://192.168.2.26:5000"  # die aktuelle IP deines Laptops
+URL = "IP:5000"
 TARGET_FOLDER = os.path.expanduser("~/Desktop/resultaten")
 BROWSER_PATH = "/usr/bin/firefox"
 
