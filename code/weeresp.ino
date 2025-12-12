@@ -7,7 +7,7 @@
 
 const char* ssid = "***";
 const char* password = "***";
-String serverName = "http://192.168.2.26:5000/data";
+String serverName = "IP:5000/data";
 
 Adafruit_AHTX0 aht;
 Adafruit_BMP280 bmp;
