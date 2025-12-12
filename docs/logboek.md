@@ -19,3 +19,4 @@
 |09.12.2025|2|schrijven en onderzoek over wetenschappen achter weersvoorspellingen|B|
 |10.12.2025|3|Machine learning in combinatie met weervoorspellen bron van MDPI door China Huaneng Clean Energy Research Institute, Beijing, China|B|
 |11.12.2025|3|Schrijven 0-versie en meer onderzoek naar machine learning algemeen+onze manier, Anaconda + Jupyter + River (py)|B|
+|12.12.2025|1|Onderzoek naar we invloed van de wind op het weer + schrijven kopje meteorlogie>wind, bron van Kees Floor (2004, januari 1) NEMO|B|
