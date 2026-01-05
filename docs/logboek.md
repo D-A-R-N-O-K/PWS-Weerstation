@@ -23,4 +23,4 @@
 |12.12.2025|1|Onderzoek naar we invloed van de wind op het weer + schrijven kopje meteorlogie>wind, bron van Kees Floor (2004, januari 1) NEMO|B|
 |12.12.2025|2|schrijven over Weerstation en -code|K|
 |02.01.2026|1|Kijken van videos over machine learning en meteorologie: controleren of mijn idee klopt en meer informatie leren. uitleg over AI>ML, meteorologen in amerika.|B|
-|||||27/24/51|
+|||||27/25/51|
