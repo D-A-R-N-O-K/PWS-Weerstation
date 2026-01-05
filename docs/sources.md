@@ -21,3 +21,16 @@ https://www.youtube.com/watch?v=PeMlggyqz0Y
 
 Documentaire over hoe Amerika haar weersvoorspellingen doen en orkanen, natuurbranden, tornado's kunnen voorspellen en de gevolgen te minimaliseren.
 https://www.youtube.com/watch?v=V0Xx0E8cs7U 
+
+
+
+
+
+
+
+
+
+## Misschien belangrijk  
+Embedding machine learning and AI in weather and climate sciences and services, framework for Met office (UK national weather and climate service) 2022-2027. Voor mijn idee All bark no bite, na de helft te hebben doorgelezen alleen maar dingen herhaald over AI in het algemeen: Use of data, **JCEEI**.  
+https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/foundation-science/data-science-framework-2022-2027.pdf  
+https://www.youtube.com/watch?v=KI-LjVRDZ-A
