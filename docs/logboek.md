@@ -24,4 +24,4 @@
 |12.12.2025|2|schrijven over Weerstation en -code|K|
 |02.01.2026|1|Kijken van videos over machine learning en meteorologie: controleren of mijn idee klopt en meer informatie leren. uitleg over AI>ML, meteorologen in amerika.|B|
 |05.01.2026|1|Nog meer onderzoek naar informatie over hoe meteorologische instituten (Met Office UK) ML gebruikt om het weer te voorspellen (zie Embedding machine.. .. and sciences > sources)|B|
-|||||27/26/51|
+|||||27/26/53|
