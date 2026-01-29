@@ -25,4 +25,5 @@
 |02.01.2026|1|Kijken van videos over machine learning en meteorologie: controleren of mijn idee klopt en meer informatie leren. uitleg over AI>ML, meteorologen in amerika.|B|
 |05.01.2026|1|Nog meer onderzoek naar informatie over hoe meteorologische instituten (Met Office UK) ML gebruikt om het weer te voorspellen (zie Embedding machine.. .. and sciences > sources)|B|
 |27.01.2026|1|PWS bespreken met FP Vonck|K&B|
-|||||28/27/55|
+|29.01.2026|1|Maken van de Copilots en het specificeren van hun taken en bronnen|B|
+|||||28/28/56|
