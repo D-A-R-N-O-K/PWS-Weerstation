@@ -1,0 +1,374 @@
+
+   <!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<title>Weerstation Zwaag</title>
+
+<style>
+:root {
+    --bg: #0f172a;
+    --card: #111827;
+    --text: #e5e7eb;
+    --muted: #9ca3af;
+    --accent: #38bdf8;
+    --border: #1f2933;
+}
+
+* { box-sizing: border-box; }
+
+body {
+    margin: 0;
+    padding: 24px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+}
+
+h1 { margin-bottom: 4px; }
+h2 { margin-top: 0; }
+
+.subtitle {
+    color: var(--muted);
+    margin-bottom: 24px;
+}
+
+.card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px 20px;
+    margin-bottom: 24px;
+}
+
+.metrics {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 16px;
+}
+
+.metric {
+    background: #020617;
+    border-radius: 10px;
+    padding: 12px;
+}
+
+.metric span {
+    display: block;
+    font-size: 0.85rem;
+    color: var(--muted);
+}
+
+.metric strong {
+    font-size: 1.4rem;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 12px;
+}
+
+th, td {
+    padding: 10px 12px;
+    text-align: left;
+}
+
+th {
+    font-weight: 600;
+    color: var(--muted);
+    border-bottom: 1px solid var(--border);
+}
+
+td {
+    border-bottom: 1px solid var(--border);
+}
+
+tr:hover {
+    background: rgba(56, 189, 248, 0.05);
+}
+
+.temp {
+    color: var(--accent);
+    font-weight: 600;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Weerstation Zwaag</h1>
+<div class="subtitle">Stand: 03-02-2026 23:29</div>
+
+<div class="card">
+  <h2>Actueele Meetingen</h2>
+  <div class="metrics">
+    <div class="metric">
+      <span>Temperatuur</span>
+      <strong>-0.37 °C</strong>
+    </div>
+    <div class="metric">
+      <span>Luchtvochtigheid</span>
+      <strong>81.62 %</strong>
+    </div>
+    <div class="metric">
+      <span>Luchtdruk</span>
+      <strong>1001.31 hPa</strong>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <h2>Voorspelling (48uur)</h2>
+  <table>
+    <tr>
+      <th>Tijd</th>
+      <th>Temperatuur</th>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 00:29:48.594810</td>
+      <td class="temp">-0.56 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 01:29:48.594810</td>
+      <td class="temp">-0.59 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 02:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 03:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 04:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 05:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 06:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 07:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 08:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 09:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 10:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 11:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 12:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 13:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 14:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 15:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 16:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 17:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 18:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 19:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 20:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 21:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 22:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-04 23:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 00:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 01:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 02:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 03:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 04:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 05:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 06:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 07:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 08:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 09:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 10:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 11:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 12:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 13:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 14:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 15:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 16:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 17:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 18:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 19:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 20:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 21:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 22:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+    <tr>
+      <td>2026-02-05 23:29:48.594810</td>
+      <td class="temp">-0.6 °C</td>
+    </tr>
+    
+  </table>
+</div>
+
+</body>
+</html>
+    
