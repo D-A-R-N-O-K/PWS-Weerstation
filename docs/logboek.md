@@ -28,4 +28,5 @@
 |29.01.2026|1|Maken van de Copilots en het specificeren van hun taken en bronnen + aanpassen van het verslag|B|
 |03.02.2026|24|Met bloed, zweet en tranen de code van de weerstation gefixed. Deze loopt nu via serial niet meer over Wlan en ik hoop dat ze nu zonder problenen werkt. Date en time en math zijn er nu ook in het ML verwerkt. website netjes gemaakt. opmaak mlserverV3.py weerespV2.ino en data.sh. Werk was verdeelt over weeken, maar ben verketen het logboek te updaten.|K|  
 |04.02.2026|1|Extraheren resultaten meetingen en upload in ../FinaleResultaten/|K|
-|||||53/28/81|
+|06.02.2026|1|SChrijven aan het document|B|
+|||||53/29/82|
