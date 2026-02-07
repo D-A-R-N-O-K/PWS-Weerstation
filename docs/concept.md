@@ -148,3 +148,12 @@ Na op internet gezocht te hebben kwamen we een artiekel tegen die uitlegt wat wi
 |-|-|-|
 |Server|De housing van het geheel maken|Sensoren verbouwen en calibreren|
 |ML|...||
+
+  
+  
+## Nieuw plan van aanpak  
+nog 4 dagen vanaf nu. Hiervoor moet nog een klein nieuw plan van aanpak komen.  
+|Probleem|Oplossing|
+|-|-|
+|ruwe data|Opschonen met proxyScrape, ArcGIS of Mammoth.io. Oplossing gevraagd aan Copilot algemeen|
+|slechte voorspellingen|invoerdata verbeteren, langere tijd het model trainen of opnieuw model activeren als het afwijkt door DRIFT|
