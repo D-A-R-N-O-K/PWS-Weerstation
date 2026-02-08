@@ -30,5 +30,5 @@
 |04.02.2026|1|Extraheren resultaten meetingen en upload in ../FinaleResultaten/|K|
 |06.02.2026|1|SChrijven aan het document|B|
 |07.02.2026|5|Schrijven aan het document. Beoordelingsmodel afgaan|B|
-|08.02.2026|2|Schrijven aan het document.|B|
-|||||53/36/89|
+|08.02.2026|4|Schrijven aan het document.|B|
+|||||53/38/91|
