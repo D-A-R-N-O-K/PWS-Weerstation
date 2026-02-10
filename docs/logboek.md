@@ -28,11 +28,12 @@
 |29.01.2026|1|Maken van de Copilots en het specificeren van hun taken en bronnen + aanpassen van het verslag|B|
 |03.02.2026|24|Met bloed, zweet en tranen de code van de weerstation gefixed. Deze loopt nu via serial niet meer over Wlan en ik hoop dat ze nu zonder problenen werkt. Date en time en math zijn er nu ook in het ML verwerkt. website netjes gemaakt. opmaak mlserverV3.py weerespV2.ino en data.sh. Werk was verdeelt over weeken, maar ben verketen het logboek te updaten.|K|  
 |04.02.2026|1|Extraheren resultaten meetingen en upload in ../FinaleResultaten/|K|
-|06.02.2026|1|SChrijven aan het document|B|
+|05.02.2026|4|Aanmaken van de finale versie van het PWS document. bestuderen van het beoordelingsformulier en begin van het schrijven over het PWS|B|
+|06.02.2026|1|Schrijven aan het document|B|
 |07.02.2026|5|Schrijven aan het document. Beoordelingsmodel afgaan|B|
 |08.02.2026|8|Schrijven aan het document, inrichting verbeteren en een beetje excel|B|
 |09.02.2026|7|Schrijven aan het document, aandwoorden hoofd- en deelvragen, terugblik etc.|B|
 |09.02.2026|5|Schrijven aan het document, uitleg software en de delen van de weerstatio|K|
 |10.02.2026|8|Schrijven aan het document, laatste onderdelen van het beoordelingformulier afmaken|K&B|
 |11.02.2026|3|Laatste controle of alles netjes en voldoende is (in het document)|K&B|
-||||69/60/95|
+||||69/65/134|
