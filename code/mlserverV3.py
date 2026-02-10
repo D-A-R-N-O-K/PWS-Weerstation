@@ -10,17 +10,14 @@ data = []
 
 model = preprocessing.StandardScaler() | linear_model.LinearRegression()
 
-# Serial-Port anpassen (z.B. /dev/ttyACM0)
 ser = serial.Serial('/dev/ttyACM0', 115200, timeout=1)
 
 def read_from_esp():
     while True:
         try:
-            # safe decode: ignoriere ungültige Bytes
             line = ser.readline().decode('utf-8', errors='ignore').strip()
             if not line:
                 continue
-            # nur Zeilen verarbeiten, die wie JSON aussehen
             if line.startswith("{") and line.endswith("}"):
                 try:
                     d = json.loads(line)
