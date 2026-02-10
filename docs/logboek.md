@@ -31,4 +31,8 @@
 |06.02.2026|1|SChrijven aan het document|B|
 |07.02.2026|5|Schrijven aan het document. Beoordelingsmodel afgaan|B|
 |08.02.2026|8|Schrijven aan het document, inrichting verbeteren en een beetje excel|B|
-|||||53/42/95|
+|09.02.2026|7|Schrijven aan het document, aandwoorden hoofd- en deelvragen, terugblik etc.|B|
+|09.02.2026|5|Schrijven aan het document, uitleg software en de delen van de weerstatio|K|
+|10.02.2026|8|Schrijven aan het document, laatste onderdelen van het beoordelingformulier afmaken|K&B|
+|11.02.2026|3|Laatste controle of alles netjes en voldoende is (in het document)|K&B|
+||||69/60/95|
